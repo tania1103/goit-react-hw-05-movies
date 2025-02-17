@@ -28,7 +28,7 @@ export default function Layout() {
           <Outlet />
         </Suspense>
       </main>
-      <Footer>тут може бути Ваша реклама 😀</Footer>
+      <Footer></Footer>
     </StyledLayout>
   );
 }
